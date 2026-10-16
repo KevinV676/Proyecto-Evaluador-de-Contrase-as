@@ -154,4 +154,4 @@ Se calcula el peor caso, probando todas las combinaciones (`2^entropía`), divid
 ## 👤 Autor
 
 Kevin Valente  
-GitHub: [@tu-usuario](https://github.com/KevinV676)
+GitHub: https://github.com/KevinV676 
